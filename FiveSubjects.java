@@ -13,7 +13,7 @@ System.out.println("Please enter your score of five subjects.");
 int Myan = a.nextInt(), Eng = b.nextInt(), Phys = c.nextInt(), Chem = d.nextInt(), Bio = e.nextInt();
 
 if (Myan < 40|| Eng < 40|| Phys < 40 || Chem < 40|| Bio < 40)
-{System.out.println("You fail. Try again and again");}
+{System.out.println("You fail. Try again");}
 
 else if (Myan >=80|| Eng >=80|| Phys >=80 || Chem >=80|| Bio >=80)
 {System.out.println("You got a distinction.");}
