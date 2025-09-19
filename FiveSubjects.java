@@ -22,7 +22,7 @@ else if (Myan >=65 && Eng >=65 && Phys >=65 && Chem >=65 && Bio >=65)
 {System.out.println("You got a credit. WooHoo");}
 
 else if (Myan >=40 && Eng >=40 && Phys >=40 && Chem >=40 && Bio >=40)
-{System.out.println("You pass.");}
+{System.out.println("You pass. This is update in remote repository");}
 
 }
 }
