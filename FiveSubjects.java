@@ -19,7 +19,7 @@ else if (Myan >=80|| Eng >=80|| Phys >=80 || Chem >=80|| Bio >=80)
 {System.out.println("You got a distinction.");}
 
 else if (Myan >=65 && Eng >=65 && Phys >=65 && Chem >=65 && Bio >=65)
-{System.out.println("You got a credit.");}
+{System.out.println("You got a credit. WooHoo");}
 
 else if (Myan >=40 && Eng >=40 && Phys >=40 && Chem >=40 && Bio >=40)
 {System.out.println("You pass.");}
